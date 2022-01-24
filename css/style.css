@@ -1,0 +1,55 @@
+/* personalcss */
+
+body {
+     font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:aquamarine;
+    line-height: 3rem;
+    color: brown;
+    font-size: 1rem;
+    font-style:normal;
+}
+h1 { 
+    text-align:center;
+    border:1rem solid black;
+    color: darkgreen;
+}
+.bigbold {
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    border: 1rem solid black;
+}
+.center {
+    text-align:center;
+}
+.finish {
+    text-align: center;
+    border: 5px solid black;
+}
+#positive{
+    color:rebeccapurple;
+
+}
+h1, h2 {
+    color: crimson;
+
+}
+section h2 {
+    color:tan;
+}
+.warning {
+    font-weight: bolder;
+    text-decoration:none;
+    font-style: italic;
+    color: red;
+}
+a:visited {
+    color:yellowgreen;
+    text-decoration:underline;
+}
+a:hover {
+    text-decoration:none;
+    color:hotpink;
+    background-color: black;
+}
